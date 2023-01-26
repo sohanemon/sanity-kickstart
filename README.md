@@ -9,3 +9,10 @@ Now you can do the following things:
 - [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
 - [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+
+## Codemon
+
+- create sanity studio `yarn create sanity`
+- run development server `yarn dev`
+- to deploy sanity studio `npx sanity deploy` or `yarn run sanity deploy`
+- to deploy with graphql `npx sanity graphql deploy` or `yarn run sanity graphql deploy`
